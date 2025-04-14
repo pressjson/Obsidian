@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "2295d2ace307b1cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "21c45c65a8799be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cf905f98b7476b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "eb48cb4063008055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COSC 425/MC2 Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MC2 Code"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9a836713fb2f8f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00a5faf9affb2b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COSC 425/MC2 Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MC2 Code"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9db6dd6913faed21",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf46c856ef0df53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67262a70c2ad71f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "25ccb11143514047",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#begin_src",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c1a168495614fb99",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1f0d4d623de455a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b23993075b8b287",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd1aa6c6d8dd4630",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COSC 425/MC2 Code.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for MC2 Code"
+            }
+          },
+          {
+            "id": "00b0fab8a2c45f12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COSC 425/MC2 Code.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MC2 Code"
+            }
+          },
+          {
+            "id": "1a44ae4447e8936b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a44e85a5f99ba520",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "COSC 425/MC2 Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MC2 Code"
+            }
+          },
+          {
+            "id": "aeb5b913454a65b7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "eb48cb4063008055",
+  "lastOpenFiles": [
+    "Pasted image 20250414091239.png",
+    "Pasted image 20250414091231.png",
+    "Welcome.md",
+    "COSC 425/MC2 Code.md",
+    "COSC 425",
+    "create a link.md"
+  ]
+}

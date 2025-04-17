@@ -23,3 +23,13 @@
 | te       |     |
 | le       | les |
 
+3. Double Object Pronouns
+	- Indirect: me/te/le/nos/les
+	- Direct: me/te/\[lo/la]/nos/\[los/las]
+		- `Te compré un burrito a ti -> te lo compré`
+	- Le/s -> se if followed by lo/la/los/las
+		- `Le compré un burrito a mi compañera -> se lo compré`
+	- With infinitive, put pronouns before or after
+		- `Quiero harcerle un regalo a ella -> Se lo quiero hacer`
+		- If putting pronouns after, add accent in the infinitive
+			- `-> Quiero hacérselo`

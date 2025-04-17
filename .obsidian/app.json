@@ -1,5 +1,7 @@
 {
   "useTab": true,
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

@@ -1,17 +1,20 @@
 
-https://www.youtube.com/watch?v=-Mc1jXhW6i0
+## [Tchaikovsky Violin Concerto in D Major, Op. 35](https://www.youtube.com/watch?v=-Mc1jXhW6i0)
+
+
+---
 
 Instrumentation:
 
-2 flutes
-2 oboes
-2 clarinets in A (since the concerto is in D major)
-2 bassoons
-4 french horns
-1 trumpet
-Timpani (only two, A and D)
-1 Hillary Hahn
-Strings
+- 2 flutes
+- 2 oboes
+- 2 clarinets in A (since the concerto is in D major)
+- 2 bassoons
+- 4 french horns (in F)
+- 2 trumpets in D
+- Timpani (only two, A and D)
+- 1 Hillary Hahn
+- Strings
 
 ---
 
@@ -19,7 +22,7 @@ Strings
 
 - Strings are *pizz* to make volume space for the solo
 - All strings are below the soloist to make register space for the solo
-- Violins have countermelody/echo *p dolce* divisi in octaves across 1 and 2
+- Violins have countermelody/echo *p dolce* divisi in octaves across Violins 1 and 2
 
 ---
 
@@ -27,13 +30,14 @@ Strings
 
 - High strings and flute divisi in octaves with theme
 - Other winds and brass have harmony and rhythm
+- Bass pizz and timpani for accents
 
 ---
 
 18:48, Finale of Mvmt. 1
 
 - Coming from a long gauntlet of violin craziness
-- The orchestra is divided into two
+- The orchestra is divided into sections
 	- Flute, oboe, clarinet, upper strings have the melody
 	- Cello, bass, bassoon have the countermelody
 	- Hillary Hahn has rhythmic octaves/drive, joins melody later

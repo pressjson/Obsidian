@@ -7,7 +7,7 @@ by Jason Press
 
 # Thesis
 
-Bill Evan's background in classical music influenced his jazz career, specifically with the clarity of his chord voicings (i.e. every note is clear) and his jazz compositions.
+Bill Evan's background in classical music influenced his jazz career, specifically with the clarity of his block chords and in his jazz compositions.
 
 ---
 
@@ -57,24 +57,21 @@ Bill Evan's background in classical music influenced his jazz career, specifical
 
 - Recorded in *Everybody Digs Bill Evans* (1958)
 - Directly inspired by classical piano waltzes with left hand ostinatos
->	Chopin’s Berceuse, Op. 57 in D♭ major, composed in Paris during 1843–4, both as ‘**a piano piece that Evans knew well**’ and as a ‘**clear precursor**’ to ‘Peace Piece.’ (Mawer, 2015)
+>	Chopin’s *Berceuse*, Op. 57 in D♭ major, composed in Paris during 1843–4, \[is] ‘**a piano piece that Evans knew well**’ and \[is] a ‘**clear precursor**’ to ‘Peace Piece.’ (Mawer, 2015)
 - Similarities to "Gymnopédie No. 1"
  
 ---
 
 # Bibliography
 
-https://libgen.gs/ads.php?md5=2fb2c3e0fb1fa77b9a838ebd4867dad3
+Evans, Pat. *The Two Brothers As I Knew Them: Harry and Bill Evans* (Marshall, Virginia: Matt H. Evans, 2011).
 
-Pettinger, Peter. *Bill Evans: How My Heart Sings* (Yale University Press, 2002), p. 39
-
-https://libgen.gs/ads.php?md5=9387a33ee4c7d121fb86ecc059523184
+Israels, Chuck. "Peace Piece." Bill Evans - Jazz Pianist. March 30, 2023. https://web.archive.org/web/20230330200905/https://www.billevans.nl/peacepiece/
 
 Mawer, Deborah. *French Music and Jazz in Conversation: From Debussy to Brubeck* (Cambridge University Press, 2015), p. 7, 234.
 
-https://www.harryevanstrio.com/The_Two_Brothers.pdf
+Pettinger, Peter. *Bill Evans: How My Heart Sings* (Yale University Press, 2002), p. 39
 
-Evans, Pat. *The Two Brothers As I Knew Them: Harry and Bill Evans* (Marshall, Virginia: Matt H. Evans, 2011).
 ## Discography
 
 Bill Evans Trio. "Very Early," track 8 in *Moon Beams*. Riverside RLP-428, 1962.
